@@ -8,7 +8,7 @@ $sponsors = Spyc::YAMLLoad('config/sponsors.yml');
   "http://www.w3.org/TR/html4/strict.dtd">
 <html>
   <head>
-    <title>The Rolling Canvas Art Collective</title>
+    <title>YAML loaded site</title>
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen" />
     <script type="text/javascript" src="js/mootools.js"></script>
   	<script type="text/javascript" src="js/slimbox.js"></script>
@@ -23,30 +23,8 @@ $sponsors = Spyc::YAMLLoad('config/sponsors.yml');
         <img src="images/logo.gif" width="365" height="287">
       </div>
       <div id="title">
-        <img src="images/title.gif" width="315" height="166" alt=" The Rolling Canvas Art Collective
-        Presented by Fuji Bikes
-        With Jinxed Philadelphia and
-        R.E. Load Baggage
-        August 1st 7PM at Media Bureau ">
-
 				<div id="header_copy">
-          <p>Created to celebrate the union of the art and urban bicycle cultures, 
-          the Rolling Canvas Art Collective will highlight and encourage the use of bicycles as a means of artistic expression.</p>
-
-          <p>These twenty-plus artists will recreate basic, fixed gear bicycles 
-            into one-of-a-kind representations of their creative methods ranging from 
-            sculpture and metal work, to street art and paint. The art installations 
-            will be auctioned off to the public, with each artist donating a 
-            portion of the proceeds to 
-            <a href="http://www.neighborhoodbikeworks.org/">Neighborhood Bike Works of Philadelphia</a>.</p>
-
-			<p>A public gallery opening and auction will be held on Friday night, 
-				August 1st, 7:00 PM at Media Bureau Gallery in the Northern Liberties
-				section of Philadelphia. The exhibit is open to the public through the end of August.</p>
-			
-			<p>A public online auction will begin on Monday, August 4th at 12 PM EST
-				and run through Thursday, August 14th at 12 PM EST. Photos of the pieces 
-				and auction links will be posted online as they become available.</p>
+            <p>This is the header copy</p>
           </div>
       </div>
       <div id="artist_list">
