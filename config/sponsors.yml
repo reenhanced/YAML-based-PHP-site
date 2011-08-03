@@ -1,0 +1,30 @@
+fuji:
+  name: Fuji Bikes
+  image: images/logos/fuji.gif
+  href: http://www.fujibikes.com
+  
+jinxed:
+  name: Jinxed
+  image: images/logos/jinxed.gif
+  href: http://jinxedphiladelphia.com
+
+re-load:
+  name: RE-Load
+  image: images/logos/re-load.gif
+  href: http://www.reloadbags.com
+
+media_bureua:
+  name: Media Bureau
+  image: images/logos/media_bureau.gif
+  href: http://www.mbnstudios.com
+  
+philly_iff:
+  name: Philadelphia Independent Film Festival
+  image: images/logos/philly-iff.gif
+  href: http://www.philadelphiaindependentfilmfestival.com/index.aspx
+
+philly_brewing_co:
+  name: Philadelphia Brewing Company
+  image: images/logos/philly-brewing-co.gif
+  href: http://philadelphiabrewing.com/
+

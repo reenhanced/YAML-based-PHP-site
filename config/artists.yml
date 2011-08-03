@@ -1,0 +1,239 @@
+# Nick Hance:
+#   details: >
+#     This is the description provided with each artist. Please ignore the image to the right, as it's just being used as a placeholder.
+#   images:
+#     - {thumb: "/tmp/palisade-10.jpg", full: "/tmp/bikes.jpg" }
+#   url: { display: "reenhanced.com", href: "http://www.reenhanced.com"}
+#   auction: http://ebay.com/
+  
+Shane Jessup:
+  details: >
+    <p>Mr. Shane Jessup is an artist/ designer working and living in Brooklyn, NY. Commercially, Shane has worked for many companies over the last 10 years, including; Coca Cola, Nissan JP, Camel, Swindle Magazine, EA Sports, Comedy Central, and most recently his work in the vinyl toy world with Kidrobot and Thunderdog Studios, which led to the release of his first solo mini-series project, "Things That Hurt" in late 2007 with Kidrobot.</p>
+    <p>Mr. Jessup's work has been featured in publications such as; Juxtapoz, Time Out New York, Print, Swindle, I Am Plastic from Abrams, and Morning Wood from Gingko Press. Showing in galleries such as; 111 Minna (San Francisco), Merry Karnowsky Gallery (Los Angeles), 222 Gallery (Philadelphia), and White Walls (SF), Shane hopes to expand on his painting work and show more in the near future.</p>
+    <p>Working evenly between acrylics and digital media, Shane addresses his own issues with love, religion, and pop culture with an obvious sense of humility and humor.</p>
+    <p>Mr. Jessup works out of his home studio in Brooklyn with his lovely wife and dog, is horrible at video games, and is known to never answer his phone.</p>
+  images:
+    - {thumb: "art/bikes-thumb/JESSUP1.jpg", full: "art/bikes/JESSUP1.jpg"}
+    - {thumb: "art/bikes-thumb/JESSUP2.jpg", full: "art/bikes/JESSUP2.jpg"}
+    - {thumb: "art/bikes-thumb/JESSUP3.jpg", full: "art/bikes/JESSUP3.jpg"}
+  url: { display: "timeistooshort.weblog.com", href: "http://timeistooshort.weblog.com" }
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220266012327&_trksid=p3907.m32&_trkparms=tab%3DSelling
+
+Tim Diet:
+  details: >
+    Born and raised in the Bay Area CA while sneaking out of his parent's house at night and literally "Tagging" alongside his older brother in the 80's. DIET was introduced to the graffiti lifestyle. Starting from a small town DIET has traveled across the U.S., Europe, and Japan just to paint. His work being well recognized has been published in many magazines and books. These days DIET'S work can be found not only in the streets but in galleries as well.
+  images:
+    - {thumb: "art/bikes-thumb/BURNS1.jpg", full: "art/bikes/BURNS1.jpg"}
+    - {thumb: "art/bikes-thumb/BURNS2.jpg", full: "art/bikes/BURNS2.jpg"}
+    - {thumb: "art/bikes-thumb/BURNS3.jpg", full: "art/bikes/BURNS3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266434119
+
+
+Michael Isaac Bushkin:
+  details: >
+    Originally hailing from Hartford, CT, Bushkin now lives and works in Philadelphia, PA. He creates iconographic works that are open to interpretation but with strong implication at our need to connect with nature and see beyond what we believe to be ordinary. Isaac's mediums range from oil, to acrylic to sculpture. He is continually developing new works and pushing his ideas and style with each new piece. 
+  url: {display: "isaacbushkin.com", href: "http://www.isaacbushkin.com" }
+  images:
+    - {thumb: "art/bikes-thumb/BUSHKIN1.jpg", full: "art/bikes/BUSHKIN1.jpg"}
+    - {thumb: "art/bikes-thumb/BUSHKIN2.jpg", full: "art/bikes/BUSHKIN2.jpg"}
+    - {thumb: "art/bikes-thumb/BUSHKIN3.jpg", full: "art/bikes/BUSHKIN3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266455643
+
+Norm:
+  details: >
+    Spanning from a multitude of talents and hard work Norm has created a new visually stimulating impact on the world today. His beginning drawing and painting skills were pushed into effect while being brought up through the ranks of graffiti, with the help of the AWR/MSK family. Always striving to do better and obviously much bigger, Norm used graffiti to put his name on the map. He then began to take his work to a smaller and more refined level, where he began painting and sculpting for art shows and events. Norm adds his unique flavor to already existing advertising imagery, as well as constructs intricate miniatures of ghetto city buildings and scenes. His patience and drive keep him moving, learning, and progressing as an artist. Recently he began training under Grime and the rest of the crew at Skull and Sword as a tattoo apprentice. Once again he has taken the opportunity and support of this experience and turned it into something amazing that is quickly flourishing into a full blown artistic career. Norm's charisma and character keep him closely tied with all who he meets, and he retains much respect through the world of art, as well as with artistic fans. Norm has brought a fresh outlook on an ever-changing art scene and has and will inspire many.
+  url: {display: "myspace.com/norm1awr", href: "http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendID=112854866" }
+  images:
+    - {thumb: "art/thumb/norm1.jpg", full: "art/full/norm1.jpg"}
+    - {thumb: "art/thumb/norm2.jpg", full: "art/full/norm2.jpg"}
+    - {thumb: "art/thumb/norm3.jpg", full: "art/full/norm3.jpg"}
+
+Chris Yormick:
+  details: >
+    Chris Yormick is an artist currently living in New York City. He lived his teenage years in Washington D.C doing teenage things. Chris has shown his work in galleries and on walls in lands near and far. He also pushed a mouse around for clients such as DefJam, S Footwear, and Skateboarder Mag., Chris has since ditched the computer and finds serenity in the brushes, paint and what-have-you's.
+  url: {display: "chrisyormick.com", href: "http://www.chrisyormick.com" }
+  images:
+    - {thumb: "art/bikes-thumb/YORMICK1.jpg", full: "art/bikes/YORMICK1.jpg"}
+    - {thumb: "art/bikes-thumb/YORMICK2.jpg", full: "art/bikes/YORMICK2.jpg"}
+    - {thumb: "art/bikes-thumb/YORMICK3.jpg", full: "art/bikes/YORMICK3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266452707
+
+
+Carrie Collins:
+  details: >
+    Carrie Collins is an industrial designer, graduating with a Bachelor's in Industrial Design from The University of Cincinnati in 2003. Since then she has been working to fill a gap between artist and art-fabricator while mastering her techniques working for RELoad Baggage in Philadelphia. She founded her own business, Fabric Horse, in 2004, to produce one-of-a kind art fabrications as well as highly functional and fashionable biking gear. Her art-world contributions include being a founding member of Black Floor Gallery and exhibiting her own art in several national and international shows including Locally Localized Gravity at the Institute of Contemporary Art, Philadelphia. 
+  images:
+    - {thumb: "art/bikes-thumb/COLLINS1.jpg", full: "art/bikes/COLLINS1.jpg"}
+    - {thumb: "art/bikes-thumb/COLLINS2.jpg", full: "art/bikes/COLLINS2.jpg"}
+    - {thumb: "art/bikes-thumb/COLLINS3.jpg", full: "art/bikes/COLLINS3.jpg"}
+  url: {href: "http://www.fabrichorse.com", display: "www.fabrichorse.com" }
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266449277
+
+Tristan Eaton:
+  details: >
+    <p>"As a graffiti artist turned illustrator turned toy designer, Brooklyn's Tristan Eaton embodies the kind of hybrid multi-tasking style that is the hallmark of the modern urban artist. Moving from pencil and paper to paint brush and canvas to Macintosh to city wall, Eaton switches gears effortlessly, refusing to commit fully to any one medium as he goes."<br />
+    Jamie Oshea, Former Editor, JUXTAPOZ Magazine </p>
+    <p>Born in Los Angeles in 1978, Tristan began pursuing street art as a teenager, painting everything from billboards to dumpsters in the urban landscape wherever he lived, including London, Detroit and New York. Eaton designed his first toy for Fisher Price at 18 years old and has since become a driving force in the world of 'Designer Toys'. As a creative leader in the world of advertising, Eaton regularly consults such brands as Hasbro, Pepsi and Nike on many creative projects that span the globe and cross all mediums.</p> 
+    <p>Tristan's work can be seen at the Cooper Hewitt Museum and in the permanent collection of the New York Museum of Modern Art (MOMA).</p> 
+    <p>Tristan is currently the President and Creative Director of THUNDERDOG STUDIOS, INC., a prominent New York based Designer Toy Brand and Creative Agency and happily resides in Greenpoint, Brooklyn.</p>
+  url: {display: "thunderdogstudios.com", href: "http://www.thunderdogstudios.com/" }
+  images:
+    - {thumb: "art/bikes-thumb/EATON1.jpg", full: "art/bikes/EATON1.jpg"}
+    - {thumb: "art/bikes-thumb/EATON2.jpg", full: "art/bikes/EATON2.jpg"}
+    - {thumb: "art/bikes-thumb/EATON3.jpg", full: "art/bikes/EATON3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220266427776&_trksid=p3907.m32&_trkparms=tab%3DSelling
+
+Leanne Biank:
+  details: >
+    When I first learned to talk, I told my mom that I hated coloring books and that I wanted a blank piece of paper to make my own lines. After graduating from high school I moved down to Philadelphia where I attended and recently graduated from, the University of the Arts, with a BFA in Illustration. Since then I find myself trying my very best to live out the life of an artist, having my work shown in various galleries around the country, including; The Society of Illustrators (NYC), Jinxed gallery (Philadelphia, PA), The Compound gallery (Portland, OG), The Suite 100 Gallery (San Francisco, CA), Think Space gallery and Gallery 1988 (Los Angeles, CA), etc. I find the greatest inspiration in the passionate people that surround me and in lingering childhood memories.
+  url: {display: "eyesorestudios.com", href: "http://www.eyesorestudios.com/" }
+  images:
+    - {thumb: "art/bikes-thumb/BIANK1.jpg", full: "art/bikes/BIANK1.jpg"}
+    - {thumb: "art/bikes-thumb/BIANK2.jpg", full: "art/bikes/BIANK2.jpg"}
+    - {thumb: "art/bikes-thumb/BIANK3.jpg", full: "art/bikes/BIANK3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220266430244&_trksid=p3907.m32&_trkparms=tab%3DSelling
+
+Adam Wallacavage:
+  details: >
+    Inspired by an obsession with the ocean and a fascination with extravagant interiors of old churches, Adam Wallacavage transformed the dining room of his South Philadelphia Victorian Brownstone into something from the pages of a Jules Verne novel. Teaching himself the traditional craft of ornamental plastering, Adam evolved his new found skills into making plaster cast octopus shaped chandeliers as the final touch to his underwater themed room. Adam continued his experimentation by making more and more. He changed the shapes and colors and even collaborated with famed jewelry designer, Tarina Tarantino, who supplied the beautiful pearls for his pink glitter chandelier featured in his first showing at Jonathan LeVine Gallery in June of 2006. Beyond making chandeliers, Adam Wallacavage is also an accomplished photographer, documenting artists, musicians, daredevils and all things weird and wonderful. His first book, Monster Size Monsters, was released in August of 2006 through Gingko Press and spans fifteen years of his photography.
+  url: {display: "adamwallcavage.com", href: "http://www.adamwallacavage.com/" }
+  images:
+    - {thumb: "art/bikes-thumb/WALLACAVAGE1.jpg", full: "art/bikes/WALLACAVAGE1.jpg"}
+    - {thumb: "art/bikes-thumb/WALLACAVAGE2.jpg", full: "art/bikes/WALLACAVAGE2.jpg"}
+    - {thumb: "art/bikes-thumb/WALLACAVAGE3.jpg", full: "art/bikes/WALLACAVAGE3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266454036
+  
+Paul Romano:
+  url: {display: "workhardened.com", href: "http://www.workhardened.com/" }
+  images:
+    - {thumb: "art/bikes-thumb/ROMANO1.jpg", full: "art/bikes/ROMANO1.jpg"}
+    - {thumb: "art/bikes-thumb/ROMANO2.jpg", full: "art/bikes/ROMANO2.jpg"}
+    - {thumb: "art/bikes-thumb/ROMANO3.jpg", full: "art/bikes/ROMANO3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220266510871
+  
+Emily Glaubinger:
+  url: {display: "drawingisawesome.blogspot.com", href: "http://drawingisawesome.blogspot.com/" }
+  images:
+    - {thumb: "art/bikes-thumb/GLAUBINGER1.jpg", full: "art/bikes/GLAUBINGER1.jpg"}
+    - {thumb: "art/bikes-thumb/GLAUBINGER2.jpg", full: "art/bikes/GLAUBINGER2.jpg"}
+    - {thumb: "art/bikes-thumb/GLAUBINGER3.jpg", full: "art/bikes/GLAUBINGER3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266435168
+  
+Jake Henry:
+  url: {display: "space1026.com", href: "http://space1026.com" }
+  images:
+    - {thumb: "art/bikes-thumb/HENRY1.jpg", full: "art/bikes/HENRY1.jpg"}
+    - {thumb: "art/bikes-thumb/HENRY2.jpg", full: "art/bikes/HENRY2.jpg"}
+    - {thumb: "art/bikes-thumb/HENRY3.jpg", full: "art/bikes/HENRY3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266436254
+  
+Ben Woodward:
+  url: {display: "space1026.com", href: "http://space1026.com" }
+  images:
+    - {thumb: "art/thumb/ben1.jpg", full: "art/full/ben1.jpg"}
+    - {thumb: "art/thumb/ben2jpg.jpg", full: "art/full/ben2jpg.jpg"}
+    - {thumb: "art/thumb/ben3.jpg", full: "art/full/ben3.jpg"}
+
+Joy LessPosh:
+  url: {display: "myspace.com/lessposh", href: "http://myspace.com/lessposh" }
+  images:
+    - {thumb: "art/bikes-thumb/LESSPOSH1.jpg", full: "art/bikes/LESSPOSH1.jpg"}
+    - {thumb: "art/bikes-thumb/LESSPOSH2.jpg", full: "art/bikes/LESSPOSH2.jpg"}
+    - {thumb: "art/bikes-thumb/LESSPOSH3.jpg", full: "art/bikes/LESSPOSH3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220266430244&_trksid=p3907.m32&_trkparms=tab%3DSelling
+  
+Awesome Dudes Printing:
+  url: {display: "Awesomedudesprinting.com", href: "http://awesomedudesprinting.com" }
+  images:
+    - {thumb: "art/bikes-thumb/AWESOME1.jpg", full: "art/bikes/AWESOME1.jpg"}
+    - {thumb: "art/bikes-thumb/AWESOME2.jpg", full: "art/bikes/AWESOME2.jpg"}
+    - {thumb: "art/bikes-thumb/AWESOME3.jpg", full: "art/bikes/AWESOME3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266450195
+
+Acid USA custom motorcycle painting:
+  details: >
+    <p>ACID is a design studio owned by Scott Chester, aka ACID, based in Brooklyn, New York, which takes elements of street art, graffiti and cutting, edge industrial design and combines them to create unique and exciting products and art work.</p> 
+    <p>Scott Chester who has a background in automotive and industrial design studied at the Center for Creative Studies College of Art and Design in Detroit, Michigan, Pratt Institute in Brooklyn, New York and Art Center College in Pasadena, California.  Upon graduating, he combined his college gained expertise and love of motorcycles and opened his own custom motorcycle paint shop, ACID, Inc. (named for his daughter, Arielle Chester Industrial Design).  He began customizing motorcycles and helmets for affluent private collectors.</p>
+    <p>As part of this ongoing creative process, ACID completed what he calls his “soda series,” which included bikes designed with recognizable graphics from such soft drinks as Coca Cola, 7-Up, Mountain Dew, Sprite and Dr Pepper.  “I wanted to create something that when you saw it go by on the street, you wouldn't forget it,” ACID explains.   “Yet you'd recognize the logo, at 70mph and it would be familiar, even if you had never seen the bike before.”   He has also completed motorcycles with graphics of Heineken, Coors Light and Sunoco.  Tommy Hilfiger and ECKO UNLIMITED each own two ACID bikes, and Scott has designed a custom helmet for Ralph Lauren.  Additionally, the “Queen of Hearts” bike was featured in the DMX 'Rough Ryders Anthem' video.  ACID's Yankee bike was featured in the Yankees World Series 1998,1999 Victory Parades up Broadway, in New York City.</p>
+    <p>ACID's custom motorcycle and helmet designs must present an interesting visual while flashing past as well as standing up to scrutiny when the bike and rider are at a stop light.  His designs are outstanding in both scenarios because they are vibrant and unforgettable.</p> 
+    <p>In 1998 ACID was approached by Marvin Samel and Jonathan Drew, future owners of Drew Estate, cigar company.  They wanted ACID to develop a cigar brand. After several years, ACID cigars, now consists of five different lines and sixteen different cigars, all of which have served to solve a major cigar problem: the cigar tastes good as it's smoked but the lingering aroma is not often pleasing.   The secret process for creating the patented ACID cigar aroma involves blending over 140 botanical and herbal elements.  The mixture is cured into the wrapper layer tobacco for over six months, which makes for a pleasant smelling smoke without hindering the five-tobacco blend within the cigar.  “If you're in a room full of cigar smokers you can easily detect the ACID aroma.” ACID cigars have become the established leader in the Botanical and Herbal Aromatic Cigar Market.  Tying in with ACIDs' love of motorcycles, ACID Cigars sponsors a motorcycle racing team, which competes on the F.U.S.A. circuit.</p>
+    <p>In 2001, designer Diane von Furstenberg challenged her design team to create an urban inspired print collection.  Her print design director, Evelyn Luna, contacted ACID to create a graffiti inspired print.  The print entitled, Cross Town Traffic, incorporated graphics relating to Diane von Furstenberg modified in the graffiti style.   “I come from old school Brooklyn, before Rap was pressed on record, New York in the late 70's.   The DVF project gave me the opportunity to explore that aesthetic in a different media.” </p>    
+    <p>In working with von Furstenberg's design team, ACID Studios introduced them to an expeditious design tool: Photoshop.  “At the time all their artwork was hand painted. Working in Photoshop made them aware of the benefits of the technology.” ACID says.</p> 
+    <p>ACID clothing line will launch in September 2008.  In addition to the motorcycle riding gear, the line will feature a dress suit, a Sportline suit and a line of mens and womans t-shirts.  “Like most of my other design work, I wanted to make this different,” ACID says.  The dress suit does not have lapels.  It's made out of a wrinkle resistant engineered material and is cut to be very comfortable.  The Sportline suit is stylish, not baggy, and will be perfect for the man who wants to look good while still being casual.”  Meant to appeal to “big boys, men who love toys.” the clothing line, which ACID describes as a bit “George Jetson” in that it is forward thinking and not at all retro, will fit in with the whole ACID vibe and target audience.  The clothes won't be flashy, they're designed to make 'YOU' look good!</p>
+    <p>Lest he be pigeonholed as a mere graffiti artist or a motorcycle design expert only, ACID is very quick to point out his other artwork.  His art often features landscapes, urban exteriors and nature. In a typical ACID twist, he uses autobody paints, which give the images luminosity and vibrancy as the colors change depending on where and how the painting is view, making them much more interactive.  “Viewing them becomes more of an experience,” he explains.  They shimmer and jump off the surface with an otherworldly appeal.</p> 
+    <p>While in design school in Detroit, ACID had an epiphany while viewing a Van Gogh self portrait that has remained with him to this day and shapes everything he does in all facets of ACID, be it motorcycle customizing, clothing design, or ACID cigars.  “I realize that my art will last much longer than I ever will.  So it has to be good.  The realization drives me to excel and push myself everyday.”</p>
+  url: { display: "acidnyc.com", href: "http://acidnyc.com" }
+  images:
+    - {thumb: "art/bikes-thumb/ACID1.jpg", full: "art/bikes/ACID1.jpg"}
+    - {thumb: "art/bikes-thumb/ACID2.jpg", full: "art/bikes/ACID2.jpg"}
+    - {thumb: "art/bikes-thumb/ACID3.jpg", full: "art/bikes/ACID3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266432025
+
+Greg "SP One" Lamarche:
+  details: >
+    Born and raised in New York City, Greg Lamarche has been collecting crap and making collages since the sixth grade when he used spent fire works, rolling papers and empty bags of angel dust he gathered from the local schoolyards as material. He began writing graffiti in 1981 and published Skills magazine during the early 90s. He has worked both as a designer and artist since 2000
+  url: { display: "www.greglamarche.com", href: "http://www.greglamarche.com/" }
+  images:
+    - {thumb: "art/bikes-thumb/LAMARCHE1.jpg", full: "art/bikes/LAMARCHE1.jpg"}
+    - {thumb: "art/bikes-thumb/LAMARCHE2.jpg", full: "art/bikes/LAMARCHE2.jpg"}
+    - {thumb: "art/bikes-thumb/LAMARCHE3.jpg", full: "art/bikes/LAMARCHE3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266454864
+  
+Eleanor Grosch:
+  details: >
+    <p>From a young age, Eleanor drew animals. She drew them at home, she 
+    drew them in school, she drew them on vacation, in the car, when she 
+    was sick, whenever she could. She rarely drew people; there was just 
+    something special about animals that held her interest and continues 
+    to do so.</p>
+    <p>Eleanor rarely drew backgrounds either. She kept it simple with line 
+    work on a blank field. Sometimes she would color them in, but mostly 
+    it was the shape of the line that was the reward. She started 
+    simplifying that line and bringing more geometry into her work when 
+    she was exposed to Skateboard artwork on Alien Workshop and Habitat 
+    decks.</p>
+    <p>Once she started illustrating and eventually worked with Alien 
+    Workshop (a dream come true!!), she found out about Charley Harper, a 
+    kindred spirit in the pursuit of simplifying animal artwork. Eleanor 
+    feels that Charley is the mentor she never knew she had! He's a hero.</p>
+    <p>Other design heros include Dirk Fowler, Tord Boontje, Marimekko, 
+    Lucienne Day, Ryan McGinness, Methane Studios, Jeff Kleinsmith, Sanna 
+    Annukka and so many others.</p>
+    <p>She currently resides in Philadelphia and is currently working in 
+    graphic and web design.</p>
+  url: {display: "pushmepullyoudesign.com", href: "http://www.pushmepullyoudesign.com/"}
+  images:
+    - {thumb: "art/bikes-thumb/GROSCH1.jpg", full: "art/bikes/GROSCH1.jpg"}
+    - {thumb: "art/bikes-thumb/GROSCH2.jpg", full: "art/bikes/GROSCH2.jpg"}
+    - {thumb: "art/bikes-thumb/GROSCH3.jpg", full: "art/bikes/GROSCH3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266456365
+    
+Darrin Rowland:
+  images:
+    - {thumb: "art/bikes-thumb/ROWLAND1.jpg", full: "art/bikes/ROWLAND1.jpg"}
+    - {thumb: "art/bikes-thumb/ROWLAND2.jpg", full: "art/bikes/ROWLAND2.jpg"}
+    - {thumb: "art/bikes-thumb/ROWLAND3.jpg", full: "art/bikes/ROWLAND3.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266447140
+Roland Burns:
+  images:
+    - {thumb: "art/bikes-thumb/BURNS1.jpg", full: "art/bikes/BURNS1.jpg" }
+    - {thumb: "art/bikes-thumb/BURNS2.jpg", full: "art/bikes/BURNS2.jpg" }
+    - {thumb: "art/bikes-thumb/BURNS3.jpg", full: "art/bikes/BURNS3.jpg" }
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220266429567&_trksid=p3907.m32&_trkparms=tab%3DSelling
+Ellie Lum:
+  images:
+    - {thumb: "art/bikes-thumb/LUM.jpg", full: "art/bikes/LUM.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266459742
+Gerik Forston:
+  images:
+    - {thumb: "art/bikes-thumb/FORSTON.jpg", full: "art/bikes/FORSTON.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=220266460440
+Dustin Klein:
+  images:
+    - {thumb: "art/bikes-thumb/KLEIN.jpg", full: "art/bikes/KLEIN.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266459067
+Miriam Singer:
+  images:
+    - {thumb: "art/bikes-thumb/SINGER.jpg", full: "art/bikes/SINGER.jpg"}
+  auction: http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&ssPageName=STRK:MESELX:IT&item=220266457840
+

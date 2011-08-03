@@ -1,0 +1,77 @@
+* {margin: 0;padding: 0;}
+
+body {font-family: Arial, "MS Trebuchet", sans-serif;font-size: 14pt;background: #00ABDF;}
+
+a:hover {background: #00ABDF;color: #FFF;}
+
+p { padding-bottom: 1em; }
+
+.clear {clear:both;}
+
+#header {padding: 20px;}
+
+  #header a {color: #fff;}
+
+#logo {float: left;}
+
+#title {float: left;margin: 0 0 100px 100px;}
+
+#header_copy { width: 315px; color: #fff; font-size: 75%;}
+
+/* ARTIST LIST
+  ========================================================================= */
+#artist_list {float: left;margin-left: 50px;margin-top: 5px;font-size: 75%;}
+
+  #artist_list h2 {color: #F7941E;font-size: 100%;text-transform: uppercase;}
+
+  #artist_list ul {list-style: none;}
+
+  #artist_list h2, #artist_list li {padding-bottom: .25em;}
+
+  #artist_list a:visited, #artist_list a:link {color: #FFF;text-decoration: none;}
+
+  #artist_list a:hover { background: #FFF;color: #00ABDF; }
+
+/* SPONSORS
+  ========================================================================= */
+#sponsors { margin: auto; text-align: center; background: #fff; padding-bottom: 0;}
+
+#sponsors a { text-decoration: none; }
+#sponsors a:hover { background: none; }
+
+.sponsor { display: inline; }
+
+.sponsor img { border: 0; }
+
+
+.line { border-top: 2px solid #000;}
+
+/* ARTISTS
+  ========================================================================= */
+
+#artists { padding: 20px 20px 100px 20px; background: #fff;}
+
+.artist {padding: 20px 0;}
+
+  .artist_left { float: left;width: 50%;margin-right: 50px;font-size: 90%; }
+
+    .artist_left h2 { color: #00ABDF;font-weight: normal;padding-bottom: 10px; }
+
+    .artist_site { padding: 20px 0; }
+
+    .artist_site a {color: #000;font-size: 150%;text-decoration: none;}
+
+    .artist_site a:hover {color: #FFF;}
+  
+  .artist_right {float: right;width: 40%;}
+  
+  .back_to_top { float: right; }
+  .back_to_top a {color:#000; font-weight:bold; font-size: 75%; text-decoration: none;}
+  .back_to_top a:hover {color: #FFF;}
+  
+  .auction_link {color:#C00;font-weight:bold;}
+  
+  .artist_images {padding-top:20px; }
+  .artist_image {float: left;padding-right:20px;padding-bottom:20px;}
+  .artist_image img {border: 0;}
+  .artist_image a:hover {background: none;}
